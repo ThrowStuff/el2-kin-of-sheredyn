@@ -1,0 +1,3 @@
+Save compatibility: this mod has not been tested with existing saves. Start a new game after
+installing or updating it. Loading a save made without the mod (or with an older version) may not
+work correctly.

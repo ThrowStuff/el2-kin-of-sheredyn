@@ -1,0 +1,13 @@
+{
+  "textures": [
+    {
+      "mapper": "Leader_KinOfSheredyn_Portrait",
+      "file": "assets/leader-portrait.png",
+      "when": {
+        "faction": "KinOfSheredyn",
+        "character": "Leader_KinOfSheredyn",
+        "gender": "Female"
+      }
+    }
+  ]
+}

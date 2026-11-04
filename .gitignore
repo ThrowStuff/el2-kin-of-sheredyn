@@ -1,0 +1,6 @@
+plugin/.tools/
+**/bin/
+**/obj/
+plugin/dist/
+plugin/assets/
+ref/

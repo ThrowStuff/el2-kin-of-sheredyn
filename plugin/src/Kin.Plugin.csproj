@@ -1,0 +1,12 @@
+<!-- SPDX-License-Identifier: GPL-3.0-only -->
+<Project Sdk="Microsoft.NET.Sdk">
+ <PropertyGroup><CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies><TargetFramework>netstandard2.1</TargetFramework><EnableDefaultCompileItems>false</EnableDefaultCompileItems><AssemblyName>KinOfSheredyn</AssemblyName></PropertyGroup>
+ <ItemGroup><Compile Include="Plugin.cs"/><Compile Include="AudioRuntime.cs"/><EmbeddedResource Include="../../dist/DISCLAIMER.txt" LogicalName="KinOfSheredyn.DISCLAIMER.txt"/><ProjectReference Include="Kin.Core.csproj"/>
+ <Reference Include="BepInEx"><HintPath>$(BepInExCoreDir)/BepInEx.dll</HintPath><Private>false</Private></Reference>
+ <Reference Include="0Harmony"><HintPath>$(BepInExCoreDir)/0Harmony.dll</HintPath><Private>false</Private></Reference>
+ <Reference Include="UnityEngine"><HintPath>$(GameManagedDir)/UnityEngine.dll</HintPath><Private>false</Private></Reference>
+ <Reference Include="UnityEngine.CoreModule"><HintPath>$(GameManagedDir)/UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+ <Reference Include="UnityEngine.AudioModule"><HintPath>$(GameManagedDir)/UnityEngine.AudioModule.dll</HintPath><Private>false</Private></Reference>
+ <Reference Include="UnityEngine.ImageConversionModule"><HintPath>$(GameManagedDir)/UnityEngine.ImageConversionModule.dll</HintPath><Private>false</Private></Reference>
+ </ItemGroup>
+</Project>

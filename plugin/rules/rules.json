@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "contexts": {
+    "FactionLeader_KinOfSheredyn": {
+      "faction": "KinOfSheredyn",
+      "character": "FactionLeader_KinOfSheredyn",
+      "gender": "Female"
+    },
+    "Leader_KinOfSheredyn": {
+      "faction": "KinOfSheredyn",
+      "character": "Leader_KinOfSheredyn",
+      "gender": "Female"
+    },
+    "DialogCharacter_KinOfSheredyn_Pryjza": {
+      "faction": "KinOfSheredyn",
+      "character": "DialogCharacter_KinOfSheredyn_Pryjza",
+      "gender": "Female"
+    },
+    "Hero_KinOfSheredyn_Defender_0": {
+      "faction": "KinOfSheredyn",
+      "character": "Hero_KinOfSheredyn_Defender_0",
+      "gender": "Female"
+    },
+    "Hero_KinOfSheredyn_Defender_1": {
+      "faction": "KinOfSheredyn",
+      "character": "Hero_KinOfSheredyn_Defender_1",
+      "gender": "Female"
+    },
+    "Hero_KinOfSheredyn_Defender_2": {
+      "faction": "KinOfSheredyn",
+      "character": "Hero_KinOfSheredyn_Defender_2",
+      "gender": "Female"
+    },
+    "Hero_KinOfSheredyn_Warrior_0": {
+      "faction": "KinOfSheredyn",
+      "character": "Hero_KinOfSheredyn_Warrior_0",
+      "gender": "Female"
+    },
+    "Hero_KinOfSheredyn_Warrior_1": {
+      "faction": "KinOfSheredyn",
+      "character": "Hero_KinOfSheredyn_Warrior_1",
+      "gender": "Female"
+    }
+  },
+  "fields": [
+    {
+      "record": "FactionLeader_KinOfSheredyn",
+      "field": "Pronouns",
+      "value": "HeHim"
+    },
+    {
+      "record": "Leader_KinOfSheredyn",
+      "field": "Pronouns",
+      "value": "HeHim"
+    },
+    {
+      "record": "DialogCharacter_KinOfSheredyn_Pryjza",
+      "field": "Pronouns",
+      "value": "HeHim"
+    },
+    {
+      "record": "Hero_KinOfSheredyn_Defender_0",
+      "field": "Pronouns",
+      "value": "HeHim"
+    },
+    {
+      "record": "Hero_KinOfSheredyn_Defender_1",
+      "field": "Pronouns",
+      "value": "HeHim"
+    },
+    {
+      "record": "Hero_KinOfSheredyn_Defender_2",
+      "field": "Pronouns",
+      "value": "HeHim"
+    },
+    {
+      "record": "Hero_KinOfSheredyn_Warrior_0",
+      "field": "Pronouns",
+      "value": "HeHim"
+    },
+    {
+      "record": "Hero_KinOfSheredyn_Warrior_1",
+      "field": "Pronouns",
+      "value": "HeHim"
+    },
+    {
+      "record": "PresentationPawn_KinOfSheredyn_Defender_Hero_0",
+      "field": "UnitVoiceGender",
+      "value": "Male"
+    },
+    {
+      "record": "PresentationPawn_KinOfSheredyn_Defender_Hero_1",
+      "field": "UnitVoiceGender",
+      "value": "Male"
+    },
+    {
+      "record": "PresentationPawn_KinOfSheredyn_Defender_Hero_2",
+      "field": "UnitVoiceGender",
+      "value": "Male"
+    },
+    {
+      "record": "PresentationPawn_KinOfSheredyn_Warrior_Hero_0",
+      "field": "UnitVoiceGender",
+      "value": "Male"
+    },
+    {
+      "record": "PresentationPawn_KinOfSheredyn_Warrior_Hero_1",
+      "field": "UnitVoiceGender",
+      "value": "Male"
+    }
+  ],
+  "textures": []
+}
